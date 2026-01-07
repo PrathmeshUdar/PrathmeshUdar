@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Career Objective :
 👋 Hi, I’m Prathmesh Udar.<br><br>- Aspiring Data Analyst & Data Science professional  <br>- Skilled in SQL, Python, Excel, and data visualization tools  <br>- Building end-to-end data analytics and data science projects<br>
 
 
